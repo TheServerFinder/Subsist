@@ -1,5 +1,5 @@
 ## Start Server:
-Basically, fork it, and run `java -jar bungee.jar` and `java -jar server.jar` in the corresponding folders, and it will run your very own Eaglercraft 1.12 server!
+Run `cd Protocol340 && cd server && java -jar bungee.jar` and `cd Protocol340 && cd bungee &&  java -jar server.jar` in the corresponding folders, and it will run your very own Eaglercraft 1.12 server!
 
 Use the paper jar instead of the default server jar for 1.12.2
 
