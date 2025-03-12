@@ -6,3 +6,7 @@ Use the paper jar instead of the default server jar for 1.12.2
 ## Customize:
 Go into the `web/` folder and click on the [eaglercraft_opts.js](web/eaglercraft_opts.js) file. Everything from default language, to default servers (and names!), to website title and icon, to default server to join on page load; can all be customized in this file.
 
+## Updating:
+
+git commit -a --allow-empty-message -m ''
+Sync Changes under Source Control
